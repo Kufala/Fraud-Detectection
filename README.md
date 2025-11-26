@@ -18,7 +18,7 @@ Credit card fraud is rare but costly. This project uses anonymized PCA-transform
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/Kufala/Fraud-Detectection.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
 ```
